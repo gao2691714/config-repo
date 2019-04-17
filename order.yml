@@ -1,4 +1,1 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
+测试config统一配置中心拉取git配置内容
